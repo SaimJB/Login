@@ -102,7 +102,7 @@ button:hover{
 .addrule{
     /* width: 100px; */
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 78%;
 }
 .slider{
@@ -112,7 +112,7 @@ button:hover{
 
 
 /* CSS FOR TABLET */
-@media only screen and (max-width : 768px){
+@media only screen and (max-width : 1024px){
     .left{
         margin-left: 25%;
         width: 52vw;
@@ -171,7 +171,7 @@ button:hover{
 
 @media only screen and (max-width : 480px){
     .left{
-        margin-left: 3%;
+        margin-left: -5%;
         margin-top: 1%;
         width: 95vw;
         height: 100vh;
